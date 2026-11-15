@@ -4,6 +4,33 @@ All notable changes to Plan Measure are documented in this file.
 
 This changelog starts with v2.3.0. Earlier releases are documented in GitHub Releases.
 
+## [2.14.0](https://github.com/userfypp/plan-measure/compare/v2.13.0...v2.14.0) (2026-11-15)
+
+
+### Added
+
+* **count:** select a single count item from the plan and act on it from the toolbar ([11d9ba1](https://github.com/userfypp/plan-measure/commit/11d9ba1b02cbbc3845b2584047824940cb47eb17))
+* refresh the brand with a new logo, app icon and README ([#486](https://github.com/userfypp/plan-measure/issues/486)) ([503c7d8](https://github.com/userfypp/plan-measure/commit/503c7d88b2d17fba4557875e4689c7c1a4adc9d7))
+* **settings:** show a fixed label preview in Measurements ([11d9ba1](https://github.com/userfypp/plan-measure/commit/11d9ba1b02cbbc3845b2584047824940cb47eb17))
+* **viewer:** turn the debug overlay into a diagnostics panel at the bottom right ([11d9ba1](https://github.com/userfypp/plan-measure/commit/11d9ba1b02cbbc3845b2584047824940cb47eb17))
+
+
+### Fixed
+
+* **ui:** align the workspace module menu with its trigger ([11d9ba1](https://github.com/userfypp/plan-measure/commit/11d9ba1b02cbbc3845b2584047824940cb47eb17))
+
+
+### Improved
+
+* **size:** lazy-load the count item toolbar and diagnostics, and rework the size check ([11d9ba1](https://github.com/userfypp/plan-measure/commit/11d9ba1b02cbbc3845b2584047824940cb47eb17))
+
+
+### Documentation
+
+* **readme:** link to the issue list without sub-issues ([#523](https://github.com/userfypp/plan-measure/issues/523)) ([303ac77](https://github.com/userfypp/plan-measure/commit/303ac77ed14b69cfb67a09cb662e4ad61e2398bc))
+* refresh README screenshot and rewrite its copy ([#485](https://github.com/userfypp/plan-measure/issues/485)) ([6e31e21](https://github.com/userfypp/plan-measure/commit/6e31e21294ebaab2a862b19fbebd5714b4fb0e64))
+* **roadmap:** point the test coverage section to the parent issue ([#521](https://github.com/userfypp/plan-measure/issues/521)) ([11508c8](https://github.com/userfypp/plan-measure/commit/11508c8c9463242a8c8c5c11cd3e123b46925518))
+
 ## [2.13.0](https://github.com/userfypp/plan-measure/compare/v2.12.0...v2.13.0) (2026-11-10)
 
 
